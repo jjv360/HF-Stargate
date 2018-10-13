@@ -1,0 +1,43 @@
+{
+    "DataVersion": 0,
+    "Entities": [
+        {
+            "clientOnly": false,
+            "created": "2018-10-13T14:19:37Z",
+            "dimensions": {
+                "blue": 11.046886444091797,
+                "green": 11.0258207321167,
+                "red": 0.8985996246337891,
+                "x": 0.8985996246337891,
+                "y": 11.0258207321167,
+                "z": 11.046886444091797
+            },
+            "id": "{47886b63-dbd1-4746-ac7a-f7527760b956}",
+            "lastEdited": 1539455738644506,
+            "lastEditedBy": "{b908a9bc-949a-45a7-bc25-16ca11352943}",
+            "modelURL": "https://mpassets.highfidelity.com/5e51d454-0bee-4436-b76c-bcb8665724fa-v1/stargate.fbx",
+            "name": "Stargate",
+            "owningAvatarID": "{00000000-0000-0000-0000-000000000000}",
+            "queryAACube": {
+                "scale": 15.633614540100098,
+                "x": -7.816807270050049,
+                "y": -7.816807270050049,
+                "z": -7.816807270050049
+            },
+            "rotation": {
+                "w": 0.9890135526657104,
+                "x": -4.57763671875e-05,
+                "y": 0.14775311946868896,
+                "z": -7.62939453125e-05
+            },
+            "script": "https://mpassets.highfidelity.com/5e51d454-0bee-4436-b76c-bcb8665724fa-v1/stargate-client.js",
+            "scriptTimestamp": 1539455475453,
+            "serverScripts": "https://mpassets.highfidelity.com/5e51d454-0bee-4436-b76c-bcb8665724fa-v1/stargate-server.js",
+            "shapeType": "static-mesh",
+            "type": "Model",
+            "userData": "{\"grabbableKey\":{\"grabbable\":false},\"stargateTarget\":\"hifi://thespot\"}"
+        }
+    ],
+    "Id": "{39f91bd1-f4eb-4275-93a7-5995fb784cb2}",
+    "Version": 93
+}
