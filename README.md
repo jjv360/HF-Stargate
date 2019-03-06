@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/status-ready-brightgreen.svg)
+
 # High Fidelity: Stargate
 
 This stargate can transport users anywhere within the High Fidelity metaverse! Simply turn it on, and then walk through it.
